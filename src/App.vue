@@ -16,9 +16,9 @@
   <p>
     抖音: <a>CoderZXS</a>
   </p>
-  <p>
+  <!-- <p>
     手机: <a href="tel:13714151040">13714151040</a>
-  </p>
+  </p> -->
   <p>
     Email: <a href="mailto:coderzxs@foxmail.com">coderzxs@foxmail.com</a>
   </p>
